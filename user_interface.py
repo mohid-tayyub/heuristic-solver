@@ -25,11 +25,11 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 import tkinter as tk
-from simulated_annealing import saPartitionSolver
 from tkinter import filedialog
 from tkinter import IntVar
 from tkinter.scrolledtext import ScrolledText
 from tkinter import messagebox
+from Solvers.simulated_annealing import saPartitionSolver
 from instances import netlist
 from instances import module
 from instances import net
