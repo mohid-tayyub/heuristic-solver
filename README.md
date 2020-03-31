@@ -2,13 +2,13 @@
 
 Heuristic Solver is a GUI for creating and solving NP-type problems using heuristic algorithms such as simulated annealing.
 
-![Screenshot](Pictures/main.jpg)
+![](Pictures/main.jpg)
 
-![Screenshot](Pictures/sim_setup.jpg)
+![](Pictures/sim_setup.jpg)
 
 ![](Pictures/live_sim.gif)
 
-![Screenshot](Pictures/final.jpg)
+![](Pictures/final.jpg)
 
 ## Dependencies/Usage
 Heuristic Solver is fully made in standard python and no extra dependencies are required.
