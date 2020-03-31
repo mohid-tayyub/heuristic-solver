@@ -2,13 +2,14 @@
 
 Heuristic Solver is a GUI for creating and solving NP-type problems using heuristic algorithms such as simulated annealing.
 
-![](Pictures/main.jpg)
+Creation of netlist for partitioning problem (divide evenly into two sets by minimizing the number of nets that must be cut) 
+![ScreenShot](Pictures/main.jpg)
 
-![](Pictures/sim_setup.jpg)
-
+Solving partitioning problem by using simulated annealing. Heuristic Solver can display live simulation as show below.
 ![](Pictures/live_sim.gif)
 
-![](Pictures/final.jpg)
+Final solution given by simulated annealing algorithm 
+![ScreenShot](Pictures/final.jpg)
 
 ## Dependencies/Usage
 Heuristic Solver is fully made in standard python and no extra dependencies are required.
